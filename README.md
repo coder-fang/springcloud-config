@@ -1,3 +1,2 @@
 # springcloud-config
-cloud config center
-
+cloud配置中心
